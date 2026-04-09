@@ -16,6 +16,9 @@ It is divided into two pages:
 - **Race/Ethnicity Distribution (Pie Chart):** Group C is the largest demographic.  
 - **Lunch Type Distribution (Pie Chart):** Majority of students are on free/reduced lunch.
 
+  <img width="516" height="290" alt="image" src="https://github.com/user-attachments/assets/23c9b6a7-5651-4675-b02e-438411cc4562" />
+
+
 ---
 
 ## 📊 Dashboard 2: Advanced Analysis & Relationships
@@ -24,6 +27,9 @@ It is divided into two pages:
 - **Parental Education (Line Chart):** Higher parental education strongly correlates with better scores across all subjects.  
 - **Scatter Plot (Correlation):** Math and Reading scores show a positive correlation; bubble size reveals Writing performance differences by gender.  
 - **Decomposition Tree:** Drill‑down analysis of performance drivers (Gender → Race → Parental Education → Lunch → Test Prep).
+
+  <img width="513" height="293" alt="image" src="https://github.com/user-attachments/assets/3c0e857b-68ea-4a82-9b31-3fb7a25c16f8" />
+
 
 ---
 
